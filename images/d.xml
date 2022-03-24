@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>d.jpg</filename>
+	<path>D:\Machine Learning\ml\tensorflow2\fajarbc\imgaug-bbox\images\d.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>1072</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red_panda</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>297</xmin>
+			<ymin>127</ymin>
+			<xmax>828</xmax>
+			<ymax>848</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -32,8 +32,8 @@ Based on [aleju/imgaug](https://github.com/aleju/imgaug) and implemetation of [a
   ```sh
   jupyter notebook
   ```
-- Open **`Bounding-Boxes-Augmentation-Image.ipynb`** file
- <img src="docs/photo-1.png" height="350">
- - Meet its requirements, make sure your kernel is **imgaug-bbox** and just run all the cells
+  - Open **`Bounding-Boxes-Augmentation-Image.ipynb`** file
+  <img src="docs/photo-1.png" height="350">
+  - Meet its requirements, make sure your kernel is **imgaug-bbox** and just run all the cells
  <img src="docs/photo-2.png" height="500">
    
